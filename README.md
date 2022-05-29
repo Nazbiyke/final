@@ -1,4 +1,4 @@
-# *GUI project
+# *GUI project*
 
 ### *1.In this final exam we have created a GUI project for batch processing multiple files.
  ![AIU 30 05 2022 2_08_37](https://user-images.githubusercontent.com/100347662/170890668-e3fa8112-afdf-46a5-bc5b-00568b25232d.png)
