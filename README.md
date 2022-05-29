@@ -1,41 +1,18 @@
-**Create a GUI project for batch processing multiple files and submit code to GitHub. 
-Your project should meet the following requirements: 
-GitHub (30 pts): 
- 
-**readme.md description, screenshots inside readme.md  - 15 pts 
- 
-**commit history quality (7 days history at least, 5 commits, different names and files - not just readme) - 15 pts 
- 
-**Programming (30 pts): 
- 
-**Classes created to wrap an entity (use Abstraction and Encapsulation approach) 
- 
-**Exceptions are handled (add exception handling just to show you it) 
- 
-**files or database used in project 
- 
-**importing your python file as module (import mymodule) 
- 
-**decomposition with functions (wrapped within module) 
- 
-**GUI (30 pts): 
- 
-**logo of AIU (Ala-Too International University) 
- 
-**about and copyright section added 
- 
-**file(s) picker button 
- 
-**batch processing button 
- 
-**options (section as a GUI widgets or loaded from config file) 
- 
-**Misc (10 pts): 
- 
-**Code should be linted (syntax check PEP8) and have no mistakes - 10 pts 
- 
-**PENALTIES: 
- 
-**Plagiarism -50 pts (stating that code or idea is your without reference to original) 
+#GUI project
+
+##In this final exam we have created a GUI project for batch processing multiple files.
+ ![AIU 30 05 2022 2_08_37](https://user-images.githubusercontent.com/100347662/170890668-e3fa8112-afdf-46a5-bc5b-00568b25232d.png)
+##If you want to find out a little more about our university, you can click "Ala-Too International University" button
+![AIU 30 05 2022 2_33_22](https://user-images.githubusercontent.com/100347662/170890895-c9bbb0ef-ed9e-4d8d-8d9a-cdf6e6727fb5.png)
+##I have added a second button that simulates submitting a form in case you would like to receive a consultation. When you click on it, the line "Thank you for your interest" will appear  below.
+![AIU 30 05 2022 2_09_42](https://user-images.githubusercontent.com/100347662/170891231-f067ef14-8b87-4bc6-b806-8a50b012e814.png)
+##You can open any new file by clicking "Open file" button
+![AIU 30 05 2022 2_09_04](https://user-images.githubusercontent.com/100347662/170891275-9c1313d6-90b0-4ea2-9118-2889aadeb48f.png)
+##Also you are able to pick a color for an image with help of "Pick a color" button
+![AIU 30 05 2022 2_09_22](https://user-images.githubusercontent.com/100347662/170891327-b9c113cd-08cc-4fd5-9b7f-c908500650f4.png)
+##And the last one, by clicking a "Exit program" you will close the program.
+
+
+
  
 
