@@ -38,4 +38,4 @@ GitHub (30 pts):
  
 **Plagiarism -50 pts (stating that code or idea is your without reference to original) 
  
-**Deadline violation -1pt / 1 hour**
+
